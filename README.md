@@ -16,4 +16,6 @@
 - 本工程基于ARM编译器版本：V5.06 update 7 (build 960)
 - 未安装的，请先安装，否则无法编译成功。
 - 文件名：([ARMCompiler_506_Windows_x86_b960.zip])
-   [ARMCompiler_506_Windows_x86_b960.zip]: https://pan.baidu.com/s/1zCieWFMnUKbGT4RXNsYJZA?pwd=9013
+
+[ARMCompiler_506_Windows_x86_b960.zip]: https://pan.baidu.com/s/1zCieWFMnUKbGT4RXNsYJZA?pwd=9013
+
