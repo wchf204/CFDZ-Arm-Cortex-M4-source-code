@@ -14,7 +14,6 @@ V1.0
 文件名：ARMCompiler_506_Windows_x86_b960.zip
 下载链接：https://pan.baidu.com/s/1zCieWFMnUKbGT4RXNsYJZA?pwd=9013
 
-
 LED端口：GPIOC 
 LED引脚：GPIO_Pin_2
 
@@ -31,7 +30,6 @@ PC端运行TCP232调试工具，打开板载STLink Virtual COM Port(COM*)串口�
 每台电脑显示的串口号不一致，以作者本机为例，查看串口号,
 右击桌面此电脑-->管理-->设备管理器-->端口(COM和LPT)，
 STMicroelectronics STLink Virtual COM Port(COM3)，软件串口号就选择COM3，波特率选择115200。
-
 
 实验目的：学习通过串口通讯对EERPOM写入和读取操作
 
